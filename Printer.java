@@ -15,5 +15,7 @@ public class Printer extends Thread{
 		Printer t1 = new Printer();
 		t1.pages = a;
 		t1.start();
+		
+		//This is the Printing class of Ouput.
 	}
 }
